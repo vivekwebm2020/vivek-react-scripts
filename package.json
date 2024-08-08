@@ -2,7 +2,7 @@
   "private": true,
   "version": "0.0.1",
   "name": "simple-component",
-  "homepage": "https://vivekwebm2020.github.io/MySQL_Tutorials_2024",
+  "homepage": "https://vivekwebm2020.github.io/vivek-react-scripts",
   "devDependencies": {
     "gh-pages": "^6.1.1",
     "react-scripts": "^5.0.1"
