@@ -4,10 +4,12 @@
   "name": "simple-component",
   "homepage": "https://vivekwebm2020.github.io/MySQL_Tutorials_2024",
   "devDependencies": {
-    "gh-pages": "^6.1.1"
+    "gh-pages": "^6.1.1",
+    "react-scripts": "^5.0.1"
   },
-  "scripts":{
+  "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build",
+    "build": "react-scripts build"
   }
 }
